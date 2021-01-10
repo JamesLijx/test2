@@ -1,3 +1,4 @@
 object TestScala{
-
+    void test(){
+    }
 }
